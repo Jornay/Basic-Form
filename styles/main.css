@@ -159,3 +159,15 @@ body{
 .animated-form .lost-password a:hover{
     border-bottom-color: #FF5858;
 }
+
+@media (max-width: 876px){
+    .left-panel{
+        display:none;
+    }
+    .right-panel{
+        background-image: url("../img/SVG/right.svg") no-repeat;
+    }
+    .animated-form .lost-password a{
+        align-items: center;
+    }
+}
