@@ -22,7 +22,6 @@ Este projeto foi desenvolvido com a intenção de adquirir um conhecimento maior
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- JavaScript
 - CSS
 - HTML
 ---
