@@ -28,13 +28,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 ## 💾 Como baixar e executar o projeto
 
-Clonando o repositório a partir do git-bash:
+#### Clonando o repositório a partir do git-bash:
  ```bash
     #Clonando repositório
     $ git clone https://github.com/Jornay/Basic-Form
  ```
 
-Clonando o repositório a partir do GitHub na web:
+#### Clonando o repositório a partir do GitHub na web:
 
 - Entre nesse link: https://github.com/Jornay/Basic-Form
 
